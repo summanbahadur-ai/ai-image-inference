@@ -102,7 +102,7 @@ Running it asynchronously ensures:
 
 The FastAPI service loads a **YOLOv8 model** at startup.
 
-https://github.com/summanbahadur/ai-image-inference-python
+https://github.com/summanbahadur-ai/ai-image-inference-python
 
 
 Each uploaded image is processed and the service returns detected objects with:
